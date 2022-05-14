@@ -1,0 +1,11 @@
+stepDefinitions\D05_Search.class
+stepDefinitions\Hooks.class
+stepDefinitions\D01_Register.class
+stepDefinitions\D08_AddToWishlist.class
+stepDefinitions\D03_SwitchCurrency.class
+runners\TestRunner.class
+stepDefinitions\D04_HoverCategories.class
+stepDefinitions\D10_AddToComparingList.class
+stepDefinitions\D02_Login.class
+stepDefinitions\D09_AddToShoppingcard.class
+stepDefinitions\D06_ConfirmLinks.class
